@@ -1,0 +1,86 @@
+const menu = [
+    {
+      id: 1,
+      title: 'Pancake',
+      category: 'breakfast',
+      price: 12.99,
+      img: './images/item-1.jpeg',
+      desc: 'Elevate your day with the exquisite taste of buttermilk in our velvety smooth, strained pancakes.',
+    },
+    {
+      id: 2,
+      title: 'FlameCraft Delight',
+      category: 'lunch',
+      price: 15.99,
+      img: './images/item-2.jpeg',
+      desc: 'Where Culinary Craftsmanship Meets Mouthwatering Indulgence!',
+    },
+    {
+      id: 3,
+      title: 'Creamy Dream Delight',
+      category: 'beverages',
+      price: 7.99,
+      img: './images/item-3.jpeg',
+      desc: 'Embark on a Symphony of Creaminess, Where Each Sip Resonates with Pure Bliss',
+    },
+    {
+      id: 4,
+      title: 'Classic Breakfeast',
+      category: 'breakfast',
+      price: 20.99,
+      img: './images/item-4.jpeg',
+      desc: 'Awaken Your Day with Sunrise Savories - Where Every Bite Brings Morning Bliss!',
+    },
+    {
+      id: 5,
+      title: 'Sizzler Supreme',
+      category: 'lunch',
+      price: 22.99,
+      img: './images/item-5.jpeg',
+      desc: 'Indulge in Culinary Bliss, Where Every Bite Sparks a Symphony of Sizzling Satisfaction.',
+    },
+  
+    {
+      id: 6,
+      title: 'Oreo Bliss Fusion',
+      category: 'beverage',
+      price: 18.99,
+      img: './images/item-6.jpeg',
+      desc: 'Dive into Decadence: Oreo Bliss Fusion - Where Creamy Dreams and Cookie Delights Collide in Every Sip!',
+    },
+    {
+      id: 7,
+      title: 'Smokey Bacon Bliss',
+      category: 'breakfast',
+      price: 8.99,
+      img: './images/item-7.jpeg',
+      desc: 'Savor the Smokey Symphony: Where Juicy Burgers Meet Crispy Bacon, Creating a Flavor Explosion in Every Bite!',
+    },
+    {
+      id: 8,
+      title: 'Savory Summit',
+      category: 'dinner',
+      price: 17.99,
+      img: './images/item-8.jpeg',
+      desc: 'Elevate Your Tastes to New Heights – Where Every Bite is a Culinary Adventure!',
+    },
+    {
+      id: 9,
+      title: 'Creamy Velvet Fusion',
+      category: 'beverages',
+      price: 16.99,
+      img: './images/item-9.jpeg',
+      desc: 'Indulge in Elegance, Sip the Creamy Bliss - A Symphony of Flavors in Every Velvet Fusion.',
+    },
+    {
+      id: 10,
+      title: 'Prime Cuts Delight',
+      category: 'dinner',
+      price: 22.99,
+      img: './images/item-10.jpeg',
+      desc: 'Where Every Bite is a Journey into Prime Perfection – Unleash the Flavor, Savor the Difference!',
+    },
+  ];
+
+  export default menu
+  
