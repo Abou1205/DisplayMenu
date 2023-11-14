@@ -49,4 +49,4 @@ This web application allows users to dynamically display and filter a menu of it
 
 ## Demo
 
-![Demo GIF](menu.gif)
+![Demo GIF](menuu.gif)
