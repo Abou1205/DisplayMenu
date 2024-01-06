@@ -22,7 +22,7 @@ This web application allows users to dynamically display and filter a menu of it
 1. Clone the repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/dynamic-menu-display.git
+    git clone https://github.com/Abou1205/dynamic-menu-display.git
     ```
 
 2. Open the `index.html` file in your preferred web browser.
